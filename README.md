@@ -8,10 +8,10 @@ https://drive.google.com/drive/folders/1-OTDASebUkhd1R1TKkyOwcD7nHtj7igB
 file-file yang di upload :
 
 LAYOUT :
--activity_main.xml
--activity_main2.xml
--activity_register.xml
--activity_tampilanig.xml
++activity_main.xml
++activity_main2.xml
++activity_register.xml
++activity_tampilanig.xml
 
 JAVA :
 -DBhelper.java
