@@ -1,7 +1,7 @@
 # rks-1800018385
 repository untuk tugas RKS
 
-Aplikasi ini aplikasi instagram yang saya buat dengan android studio berupa frontend dan ada databasenya juga.Front End yang telah saya buat ini mirip atau cukup sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Dibawah adalah Link folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan :
+Aplikasi ini aplikasi instagram yang saya buat dengan android studio berupa frontend dan ada databasenya juga.Front End yang telah saya buat ini mirip atau cukup sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Dibawah adalah Link folder UTS sebelumnya yg berisi workflow, wireframe, user story, & rincian kebutuhan :
 
 https://drive.google.com/drive/folders/1-OTDASebUkhd1R1TKkyOwcD7nHtj7igB
 
