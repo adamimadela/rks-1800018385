@@ -5,6 +5,7 @@ Aplikasi ini aplikasi instagram yang saya buat dengan android studio berupa fron
 
 https://drive.google.com/drive/folders/1-OTDASebUkhd1R1TKkyOwcD7nHtj7igB
 
+
 file-file yang di upload :
 
 LAYOUT :
@@ -14,24 +15,27 @@ LAYOUT :
 +activity_tampilanig.xml
 
 JAVA :
--DBhelper.java
--MAinAct.java
--MAinActivity.java
--RegisterActivity.java
--tampilanig.java
++DBhelper.java
++MAinAct.java
++MAinActivity.java
++RegisterActivity.java
++tampilanig.java
 
 DRAWABLE
--GZRE8405.JPG
--ic_launcher_background.xml
--instag.png
++GZRE8405.JPG
++ic_launcher_background.xml
++instag.png
 
 VALUES :
--colors.xml
--strings.xml
--styles.xml
++colors.xml
++strings.xml
++styles.xml
 
 MANIFEST:
--AndroidManifest.xml
++AndroidManifest.xml
 
 GRADLE :
-build.gradle(:app)
++build.gradle(:app)
+
+
+
