@@ -40,8 +40,11 @@ GRADLE :
 berikut adalah hasil ss frontend program
 
 ![rks1](https://user-images.githubusercontent.com/48514779/106565618-adf9e280-6561-11eb-8d57-730438f62241.png)
+
 ![rks2](https://user-images.githubusercontent.com/48514779/106565626-b05c3c80-6561-11eb-9571-95e159beea7c.png)
+
 ![rks4](https://user-images.githubusercontent.com/48514779/106565635-b3572d00-6561-11eb-9eff-d6ddf3671cae.png)
+
 ![rks5](https://user-images.githubusercontent.com/48514779/106565645-b6521d80-6561-11eb-83d1-f9c1a90a09e7.png)
 
 
